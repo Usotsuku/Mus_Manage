@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314135528220",
+    "project_id": "mus-building",
+    "storage_bucket": "mus-building.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314135528220:android:a1061984040af35bc430d9",
+        "android_client_info": {
+          "package_name": "com.aymane.musbuilding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHdGMMqOy4FOilyiJupvljLmuUAsgYzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314135528220:android:426bae655c007fbcc430d9",
+        "android_client_info": {
+          "package_name": "com.musbuilding.musbuilding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHdGMMqOy4FOilyiJupvljLmuUAsgYzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
